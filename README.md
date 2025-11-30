@@ -36,7 +36,7 @@ To run this project locally, clone the repository and install the dependencies.
 
 1.  **Clone the Repository (If using the command line later):**
     ```bash
-    git clone [https://github.com/your-username/end-to-end-churn-api.git](https://github.com/prakashbhanu99088/end-to-end-churn-api.git)
+    git clone [https://github.com/prakashbhanu99088/end-to-end-churn-api.git](https://github.com/prakashbhanu99088/end-to-end-churn-api.git)
     cd end-to-end-churn-api
     ```
 
