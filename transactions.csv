@@ -1,0 +1,6 @@
+transaction_id,user_id,product_name,date,price,tax_rate
+T001,C101,Laptop,2025-11-28,1200.00,0.05
+T002,C102,Mouse,2025-11-28,25.50,0.08
+T003,C101,Monitor,2025-11-29,350.00,0.05
+T004,C103,Keyboard,2025-11-29,75,0.08
+T005,C104,Webcam,2025-11-30,50,0.05
